@@ -1,0 +1,11 @@
+torch==2.1.0
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+safetensors
+opencv-python
+pillow
+fastapi
+uvicorn
